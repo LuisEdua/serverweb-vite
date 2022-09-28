@@ -1,4 +1,3 @@
-import '../assets/styles/Header.css';
 import logo from '/Imaganes/VariedadesActuales.png'
 function Header(){
     return(

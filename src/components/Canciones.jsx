@@ -1,4 +1,3 @@
-import '../assets/styles/Canciones.css'
 import Card from './Card'
 function Canciones(){
     const cancion=[
